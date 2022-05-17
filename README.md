@@ -40,12 +40,8 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 </p>
 
-#### ⭐  Statistics and Languages
+#### ⭐  Statistics
   
-   <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=nobita851&theme=algolia&count_private=true&show_icons=true alt=DaNnyKg07 height="165" />
-   &nbsp &nbsp &nbsp <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobita851&theme=algolia&hide=jupyter%20notebook,html,css&langs_count=8&layout=compact" alt="nobita851
-" height="165" />
- </p>
  <p align="center"> 
  <img style="border-radius:10px" src="https://github-readme-streak-stats.herokuapp.com/?user=nobita851&theme=algolia&show_icons=true" />
   </p>
